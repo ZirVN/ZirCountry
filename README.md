@@ -98,11 +98,11 @@ Tất cả placeholder đều có tiền tố `%zircountry_`:
 | Placeholder | Ví dụ đầu ra | Mô tả |
 |-------------|----------------|-------------|
 | `%zircountry_country%` | `Vietnam` | Tên quốc gia |
-| `%zircountry_region%` | `Thanh Hóa` | Vùng / Tiểu bang |
-| `%zircountry_city%` | `Hà Trung` | Thành phố |
+| `%zircountry_region%` | `Thanh Hoa` | Vùng / Tiểu bang |
+| `%zircountry_city%` | `Ha Trung` | Thành phố |
 | `%zircountry_flag%` | `🇻🇳` | Cờ cảm xúc |
-| `%zircountry_short%` | `Vietnam/Thanh Hóa` | Quốc gia/Khu vực |
-| `%zircountry_full%` | `Hà Trung, Thanh Hóa, Vietnam` | Vị trí đầy đủ |
+| `%zircountry_short%` | `Vietnam/Thanh Hoa` | Quốc gia/Khu vực |
+| `%zircountry_full%` | `Ha Trung, Thanh Hoa, Vietnam` | Vị trí đầy đủ |
 | `%zircountry_format%` | `🇻🇳 Vietnam` | Cờ + Quốc gia |
 | `%zircountry_code%` | `VN` | Mã ISO 2 chữ cái |
 | `%zircountry_hidden%` | `true` / `false` | Trạng thái tùy chọn riêng tư |
