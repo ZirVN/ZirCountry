@@ -49,10 +49,10 @@
 | Paper 1.20.x    | ✅        |
 | Paper 1.21.x    | ✅        |
 | Paper 1.21.1+   | ✅        |
-| Paper 1.26.x+   | ✅ (tương thích tương lai qua Paper API) |
+| Paper 1.26.x+   | ✅        |
 | Purpur          | ✅        |
 | Folia           | ✅        |
-| Spigot 1.18+    | ✅ (với BungeeCord chat API) |
+| Spigot 1.18+    | ✅        |
 
 > ZirContry sử dụng Paper API ổn định và Java chuẩn — nó sẽ tiếp tục hoạt động trên các phiên bản tương lai mà không cần sửa đổi.
 
@@ -267,6 +267,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Made with ❤️ by **zirvn** · [dev.zirvn.zircountry](https://dev.zirvn.zircountry)
+Made with ❤️ by **ZirVN** ·
 
 </div>
