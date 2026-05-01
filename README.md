@@ -49,7 +49,6 @@
 | Paper 1.20.x    | ✅        |
 | Paper 1.21.x    | ✅        |
 | Paper 1.21.1+   | ✅        |
-| Paper 1.26.x+   | ✅        |
 | Purpur          | ✅        |
 | Folia           | ✅        |
 | Spigot 1.18+    | ✅        |
